@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+
+
+<Mayanagari>
+            <Classical>
+                <Movie_Name>Radhe</Movie_Name>
+                <Release_Year>2021</Release_Year>
+            </Classical> 
+
+            <Action>
+                <Movie_Name>Tenet</Movie_Name>
+                <Release_Year>2020</Release_Year>
+            </Action> 
+
+            <Horror>
+                <Movie_Name>Laxami</Movie_Name>
+                <Release_Year>2021</Release_Year>
+            </Horror>
+</Mayanagari> 
+
+
